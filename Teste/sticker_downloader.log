@@ -1,0 +1,75 @@
+2024-09-29 16:46:00,107 - ERROR - Failed to initiate ChromeDriver: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF757A1B125+29573]
+	(No symbol) [0x00007FF75798FF50]
+	(No symbol) [0x00007FF75784B6EA]
+	(No symbol) [0x00007FF757886B91]
+	(No symbol) [0x00007FF75788268E]
+	(No symbol) [0x00007FF7578D30F0]
+	(No symbol) [0x00007FF7578D2780]
+	(No symbol) [0x00007FF7578C70A3]
+	(No symbol) [0x00007FF7578912DF]
+	(No symbol) [0x00007FF757892441]
+	GetHandleVerifier [0x00007FF757D4C74D+3377581]
+	GetHandleVerifier [0x00007FF757D97B47+3685799]
+	GetHandleVerifier [0x00007FF757D8CF6B+3641803]
+	GetHandleVerifier [0x00007FF757ADB2A6+816390]
+	(No symbol) [0x00007FF75799B25F]
+	(No symbol) [0x00007FF757997084]
+	(No symbol) [0x00007FF757997220]
+	(No symbol) [0x00007FF75798607F]
+	BaseThreadInitThunk [0x00007FFC294D257D+29]
+	RtlUserThreadStart [0x00007FFC2A88AF28+40]
+
+2024-09-29 16:46:41,930 - ERROR - Failed to initiate ChromeDriver: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF757A1B125+29573]
+	(No symbol) [0x00007FF75798FF50]
+	(No symbol) [0x00007FF75784B6EA]
+	(No symbol) [0x00007FF757886B91]
+	(No symbol) [0x00007FF75788268E]
+	(No symbol) [0x00007FF7578D30F0]
+	(No symbol) [0x00007FF7578D2780]
+	(No symbol) [0x00007FF7578C70A3]
+	(No symbol) [0x00007FF7578912DF]
+	(No symbol) [0x00007FF757892441]
+	GetHandleVerifier [0x00007FF757D4C74D+3377581]
+	GetHandleVerifier [0x00007FF757D97B47+3685799]
+	GetHandleVerifier [0x00007FF757D8CF6B+3641803]
+	GetHandleVerifier [0x00007FF757ADB2A6+816390]
+	(No symbol) [0x00007FF75799B25F]
+	(No symbol) [0x00007FF757997084]
+	(No symbol) [0x00007FF757997220]
+	(No symbol) [0x00007FF75798607F]
+	BaseThreadInitThunk [0x00007FFC294D257D+29]
+	RtlUserThreadStart [0x00007FFC2A88AF28+40]
+
+2024-09-29 16:47:08,454 - ERROR - Failed to initiate ChromeDriver: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF757A1B125+29573]
+	(No symbol) [0x00007FF75798FF50]
+	(No symbol) [0x00007FF75784B6EA]
+	(No symbol) [0x00007FF757886B91]
+	(No symbol) [0x00007FF75788268E]
+	(No symbol) [0x00007FF7578D30F0]
+	(No symbol) [0x00007FF7578D2780]
+	(No symbol) [0x00007FF7578C70A3]
+	(No symbol) [0x00007FF7578912DF]
+	(No symbol) [0x00007FF757892441]
+	GetHandleVerifier [0x00007FF757D4C74D+3377581]
+	GetHandleVerifier [0x00007FF757D97B47+3685799]
+	GetHandleVerifier [0x00007FF757D8CF6B+3641803]
+	GetHandleVerifier [0x00007FF757ADB2A6+816390]
+	(No symbol) [0x00007FF75799B25F]
+	(No symbol) [0x00007FF757997084]
+	(No symbol) [0x00007FF757997220]
+	(No symbol) [0x00007FF75798607F]
+	BaseThreadInitThunk [0x00007FFC294D257D+29]
+	RtlUserThreadStart [0x00007FFC2A88AF28+40]
+
